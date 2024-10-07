@@ -14,6 +14,7 @@ Welcome to my personal portfolio website repository! This project showcases my s
 ![image](https://github.com/user-attachments/assets/2a0a4974-eebb-45a5-94a1-fd741b16a848)
 ![image](https://github.com/user-attachments/assets/1ff6f9bc-51eb-41e6-bc8a-27a2614831b6)
 
+
 ## 🌟 Features
 
 - Responsive Design
@@ -31,7 +32,7 @@ Welcome to my personal portfolio website repository! This project showcases my s
 
 ## 🚀 Live Demo
 
-Check out the live version of my portfolio [here]([https://your-portfolio-link.com](https://sushree-0312.github.io/Personal-Portfolio/)) 
+[Watch the live demo](https://www.loom.com/share/a4e18cad04cf4a0cb22b6c4549a78557?sid=52d25c3c-1646-4d1a-8af5-7db7316bb1f4)
 
 
 ## Project Structure 🌟
