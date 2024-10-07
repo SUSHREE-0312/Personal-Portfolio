@@ -61,8 +61,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 Feel free to reach out for any collaboration or opportunities!
 
-- Email: [your-email@example.com](mailto:sushreerout0312@gmail.com)
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sushree-subhalakshmi-rout-03870023b/]) 
+- Email: [(mailto:sushreerout0312@gmail.com)]
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sushree-subhalakshmi-rout-03870023b/]) 
 
 ---
 
