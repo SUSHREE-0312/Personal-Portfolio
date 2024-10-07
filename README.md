@@ -7,7 +7,13 @@ Welcome to my personal portfolio website repository! This project showcases my s
 Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experiences as a web developer and computer science student at CV Raman Global University.
 
 ![Portfolio Screenshot](![Screenshot (816)](https://github.com/user-attachments/assets/cc083378-53ca-4420-b956-2d5d7edbfb31)
-) 
+![image](https://github.com/user-attachments/assets/55a70d8e-4fcc-492f-81a7-ad151eabd698)
+![image](https://github.com/user-attachments/assets/855974a1-5aa8-46b6-ac5e-3371e2c9edb3)
+![image](https://github.com/user-attachments/assets/8f59f4b3-05ae-4c99-b642-d443979db757)
+![image](https://github.com/user-attachments/assets/a4a7a77d-15bd-4ad5-8802-046cc1bd699b)
+![image](https://github.com/user-attachments/assets/2a0a4974-eebb-45a5-94a1-fd741b16a848)
+![image](https://github.com/user-attachments/assets/1ff6f9bc-51eb-41e6-bc8a-27a2614831b6)
+
 ## 🌟 Features
 
 - Responsive Design
@@ -47,7 +53,7 @@ Check out the live version of my portfolio [here]([https://your-portfolio-link.c
 
 ## 🚀 Live Demo
 
-Check out the live version of my portfolio [here](https://your-portfolio-link.com) 
+Check out the live version of my portfolio - If there are any issues with the live demo so please look at the Portfolio Screenshot for reference[here](https://your-portfolio-link.com) 
 
 
 ## 👤 About Me
