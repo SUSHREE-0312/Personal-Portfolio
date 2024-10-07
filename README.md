@@ -52,10 +52,6 @@ Welcome to my personal portfolio website repository! This project showcases my s
 - **JavaScript**: For dynamic features and interactivity
 - **GitHub Pages**: For hosting the portfolio online
 
-## 🚀 Live Demo
-
-Check out the live version of my portfolio - If there are any issues with the live demo so please look at the Portfolio Screenshot for reference[here](https://your-portfolio-link.com) 
-
 
 ## 👤 About Me
 
