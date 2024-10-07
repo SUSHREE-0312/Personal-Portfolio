@@ -1,44 +1,74 @@
-# vCard - Personal portfolio
+# Personal Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experiences as a web developer and computer science student at CV Raman Global University.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+![Portfolio Screenshot](# Personal Portfolio Website
 
-## Demo
+Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experiences as a web developer and computer science student at CV Raman Global University.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Portfolio Screenshot](![Screenshot (816)](https://github.com/user-attachments/assets/cc083378-53ca-4420-b956-2d5d7edbfb31)
+) 
+## 🌟 Features
 
-## Prerequisites
+- Responsive Design
+- Projects Showcase
+- Contact Form
+- Skills and Experience Section
+- Easy to Navigate UI
 
-Before you begin, ensure you have met the following requirements:
+## 🛠 Technologies Used
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- **HTML5**: For structuring the web content
+- **CSS3**: For styling the portfolio
+- **JavaScript**: For dynamic features and interactivity
+- **GitHub Pages**: For hosting the portfolio online
 
-## Installing vCard
+## 🚀 Live Demo
 
-To install **vCard**, follow these steps:
+Check out the live version of my portfolio [here](https://your-portfolio-link.com) <!-- Replace with your GitHub Pages link -->
 
-Linux and macOS:
+## Project Structure 🌟
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+## 🌟 Features
 
-Windows:
+- Responsive Design
+- Projects Showcase
+- Contact Form
+- Skills and Experience Section
+- Easy to Navigate UI
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+## 🛠 Technologies Used
 
-## Contact
+- **HTML5**: For structuring the web content
+- **CSS3**: For styling the portfolio
+- **JavaScript**: For dynamic features and interactivity
+- **GitHub Pages**: For hosting the portfolio online
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+## 🚀 Live Demo
 
-## License
+Check out the live version of my portfolio [here](https://your-portfolio-link.com) 
 
-MIT
+
+## 👤 About Me
+
+I'm Sushree, a  web developer with experience in front-end technologies and a student of computer science. This portfolio reflects my journey through web development and design.
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
+## 📬 Contact
+
+Feel free to reach out for any collaboration or opportunities!
+
+- Email: [your-email@example.com](mailto:sushreerout0312@gmail.com)
+- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sushree-subhalakshmi-rout-03870023b/]) 
+
+---
+
+⭐️ Don't forget to **star** this repository if you found it useful!
+
+
+
+
+
